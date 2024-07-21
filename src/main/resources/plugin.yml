@@ -1,0 +1,9 @@
+name: FreelancePlug
+version: '${project.version}'
+main: me.unknkriod.freelanceplug.Main
+api-version: '1.20'
+authors: [UnknKriod]
+website: http://eavermine.is-best.net/
+commands:
+  quests:
+    aliases: [q]
